@@ -23,10 +23,23 @@
 
 <hr/>
 
+
+### 🏁Communications & Patents
+
+- S. Baek, S. Han, J. Lee, W. Lee, C. Park, “Arrhythmia Classification Using 1D-2D Conversion”, u-Healthcare 2019, Dec 2019, Kookmin University
+
+- 백수환, 노종련, 김사엽, 박철수, “머신러닝을 이용한 이상보행 검출”, 신호처리합동학술대회, 대전, 2019.09
+
+- “Method For Measuring Health Condition Of User And Apparatus Therefor” S. Baek, C. Park, Kor-patents 10-2019-0157809, 2019.11
+
+<hr/>
+
 ### 📡Contact
 - facebook : https://www.facebook.com/suwhan.baek.7
 - Linked in: https://www.linkedin.com/in/suwhan-baek-a46938183/
 - email : lunit@kakao.com
+
+
 
 <!--
 **Lukious/Lukious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
