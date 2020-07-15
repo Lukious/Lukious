@@ -1,3 +1,8 @@
+ <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  </div>
+
 ### 🌟Suwhan, Baek -- @Lukious
 ##### 👋HI! NEWCOMMER! Welcome to my github place! I'm a Researcher & SW developer BCML in seoul,south korea.  My research interests include overall Machine Learning (especially Auto ML) for bio-signal and Quantum Computings. And also attracted by reinforcement learning, generative models these days. Thanks for comming and always welcome your PR for any repositories! 
 
