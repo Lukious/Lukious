@@ -30,6 +30,10 @@
 
 - S. Baek, S. Han, J. Lee, W. Lee, C. Park, “Arrhythmia Classification Using 1D-2D Conversion”, u-Healthcare 2019, Dec 2019, Kookmin University
 
+- Suwhan Baek, Heesang Eom, Yuli Sun Hariyani, Gwangho Kim, Jongryum Roh, Sayup Kim, Chelsoo Park, "Deep Learning Based Heart Rate Estimation Using Smart Shoes Sensor", 2020 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia) - IEEE Publication Track
+
+- 백수환, 유현수, 박철수, "CNN기반의 EEG 신호를 활용한 수면 단계 측정 자동화", Autumn Annual Conference of IEIE, 2020
+
 - 백수환, 노종련, 김사엽, 박철수, “머신러닝을 이용한 이상보행 검출”, 신호처리합동학술대회, 대전, 2019.09
 
 - “Method For Measuring Health Condition Of User And Apparatus Therefor” S. Baek, C. Park, Kor-patents 10-2019-0157809, 2019.11
