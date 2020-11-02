@@ -22,6 +22,7 @@
 - Organizer of 머신러닝 연구 동아리 MI:RU
 - Translator of IV GO
 - Member of SW 개발 소모임 team.Reils 
+- CEO of Venit [Biomedical software deveopment company]
 
 <hr/>
 
