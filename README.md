@@ -3,6 +3,8 @@
 ### 🌟Suwhan, Baek -- @Lukious
 ##### 👋HI! NEWCOMMER! Welcome to my github place! I'm a Researcher & SW developer BCML in seoul,south korea.  My research interests include overall Machine Learning (especially Auto ML) for bio-signal and Quantum Computings. And also attracted by reinforcement learning, generative models these days. Thanks for comming and always welcome your PR for any repositories! 
 
+[Please reference LinkedIn Profile for more details!]
+
 <hr/>
 
 ### 🦜Languages
@@ -44,7 +46,7 @@
 
 ### 📡Contact
 - facebook : https://www.facebook.com/suwhan.baek.7
-- Linked in: https://www.linkedin.com/in/suwhan-baek-a46938183/
+- **Linked in: https://www.linkedin.com/in/suwhan-baek-a46938183/**
 - email : lunit@kakao.com / lunit@kw.ac.kr / oz22361@bristol.ac.uk 
 
 ### 🏁 Awards
