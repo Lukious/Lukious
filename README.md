@@ -45,7 +45,7 @@
 ### 📡Contact
 - facebook : https://www.facebook.com/suwhan.baek.7
 - Linked in: https://www.linkedin.com/in/suwhan-baek-a46938183/
-- email : lunit@kakao.com / lunit@kw.ac.kr /oz22361@bristol.ac.uk 
+- email : lunit@kakao.com / lunit@kw.ac.kr / oz22361@bristol.ac.uk 
 
 ### 🏁 Awards
 - Industry-academia-linked software project competition (President's Award, First Prize)
