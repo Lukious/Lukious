@@ -47,6 +47,10 @@
 - Linked in: https://www.linkedin.com/in/suwhan-baek-a46938183/
 - email : lunit@kakao.com / lunit@kw.ac.kr /oz22361@bristol.ac.uk 
 
+### 🏁 Awards
+- Industry-academia-linked software project competition (President's Award, First Prize)
+- MAIC Sleep AI challenge, Seoul National University Hospital (Rank : 21/103)
+
 
 
 <!--
