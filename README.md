@@ -7,17 +7,6 @@ Please reference [LinkedIn Profile](https://www.linkedin.com/in/suwhan-baek-a469
 
 <hr/>
 
-### 🦜Languages
-- Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐
-- C/C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         ⭐⭐⭐⭐
-- JAVA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           ⭐⭐⭐
-- R           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ⭐⭐⭐
-- JAVA Script &nbsp;   ⭐⭐
-- DART   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      ⭐⭐
-
-<hr/>
-
-
 ### 🏁Communications & Patents
 
 [Check Google Scholar](https://scholar.google.co.kr/citations?user=yZ5doq0AAAAJ&hl=ko)
